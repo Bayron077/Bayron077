@@ -15,14 +15,6 @@
 
 ### 🛠 Tecnologías que manejo
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=java,py,js,html,git,github,linux" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=dark&hide_border=false" /><br>
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=dark&show_icons=true&count_private=true&hide_border=false"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&langs_count=10"/>
-</p>
