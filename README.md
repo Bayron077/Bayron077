@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/BannerBlack.png" alt="BannerBlack" width="800"
 height="150">
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Andres Gonzalez / Dreon
-✨ </h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Bayron Castellanos✨ </h1>
 <p align="center">
 <p align="center">
 <picture>
@@ -28,11 +27,10 @@ style=for-the-badge&logo=instagram&logoColor=white" alt="@dreon.learning" /></a>
 <h2>Sobre mi <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
 <!--Intro start-->
 <p align="left">
-🎓 INGENIERO EN SISTEMAS
+🎓 Tec. Desarrollo de Software
 🎥 Creador de contenido que te hace la vida más fácil con aprendizajes 🚀 y tips simples de entender ⚡
-📝 Roles en el ámbito: Desarrollador... Lead Automation... Fundador de Dreon... Emprendedor... Programador Freelance... y en un futuro quién
-sabe ☺️
-📫 Contacto: **dreon.learning@gmail.com**
+
+📫 Contacto: **bayron.castellanos@utp.edu.co**
 <!--Intro end-->
 </p>
 <br>
