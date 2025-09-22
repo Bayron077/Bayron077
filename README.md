@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Bayron Castellanos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=#0080FF&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+de+GitHub;Soy+Desarrollador+Full+Stack;Amante+de+la+Automatización;Siempre+aprendiendo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+de+GitHub;Soy+Desarrollador+Full+Stack;Amante+de+la+Automatización;Siempre+aprendiendo+🚀" />
 </p>
 
 ---
